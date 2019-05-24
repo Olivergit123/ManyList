@@ -1,2 +1,9 @@
 piña
+<<<<<<< HEAD
 pera
+=======
+melon
+sandía
+pera
+manzana
+>>>>>>> refs/remotes/origin/master
