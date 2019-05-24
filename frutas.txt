@@ -1,6 +1,5 @@
 piña
 <<<<<<< HEAD
-pera
 =======
 melon
 sandía
