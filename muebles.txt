@@ -1,2 +1,4 @@
 silla
 mesa
+cama
+escritorio
